@@ -15,5 +15,4 @@ public class PersonTest {
 		t1.teach();
 
 	}
-
 }
